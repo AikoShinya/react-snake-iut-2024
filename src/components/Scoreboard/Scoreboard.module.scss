@@ -1,9 +1,13 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
 .scoreboard {
   position: absolute;
   z-index: 100;
   left: 10%;
   top: 15%;
-  color: white;
+  color: red;
 }
 
 .header {
